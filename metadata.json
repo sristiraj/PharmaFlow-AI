@@ -1,0 +1,5 @@
+{
+  "name": "PharmaFlow AI",
+  "description": "Intelligent healthcare claims analysis platform predicting therapy transitions using ICD/CPT ontologies and Gemini-powered binary classification.",
+  "requestFramePermissions": []
+}
